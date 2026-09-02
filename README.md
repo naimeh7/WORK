@@ -6,3 +6,4 @@ ansem
 MOSEN
 NINI
 vouche
+KSHER
