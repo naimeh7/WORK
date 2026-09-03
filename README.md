@@ -7,3 +7,4 @@ MOSEN
 NINI
 vouche
 KSHER
+alsokshr
